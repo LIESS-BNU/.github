@@ -1,12 +1,12 @@
-# Lab for Internet Educational System Science - BNU (LIESS-BNU)
+# Lab for Internet Educational System Science - CN (LIESS-CN)
 
-Welcome to **LIESS-BNU**!  
-We are a research laboratory based at **Beijing Normal University (BNU)**, dedicated to advancing **internet education** through **complex system modeling**, **data analysis**, and **open-source tools**. Our mission is to empower researchers, educators, and developers to better understand and improve educational systems in the internet era.
+Welcome to **LIESS-CN**!  
+We are a research laboratory based in **China**, dedicated to advancing **internet education** through **complex system modeling**, **data analysis**, and **open-source tools**. Our mission is to empower researchers, educators, and developers to better understand and improve educational systems in the internet era.
 
 ---
 
 ## 🌟 **Our Mission**
-At LIESS-BNU, we strive to:
+At LIESS-CN, we strive to:
 - Analyze and model **complex systems** in internet-based education.
 - Develop **open-source tools** for studying group interactions and educational dynamics.
 - Promote **collaboration** among researchers, educators, and the global open-source community.
@@ -42,10 +42,10 @@ We welcome collaborations and contributions from researchers, developers, and ed
 ---
 
 ## 📫 **Contact Us**
-- **Institution**: Beijing Normal University (BNU)  
+- **Institution**: Based in China (欢迎与中国研究团队合作)  
 - **Documentation**: [GCA Analyzer Docs](https://gca-analyzer.readthedocs.io/)  
-- **Email**: admin@your-email.com  
-- **GitHub**: [LIESS-BNU GitHub Organization](https://github.com/your-organization)
+- **Email**:et_shaw@126.com  
+- **GitHub**: [LIESS-CN GitHub Organization](https://github.com/LIESS-CN)
 
 ---
 
