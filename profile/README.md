@@ -42,8 +42,6 @@ We welcome collaborations and contributions from researchers, developers, and ed
 ---
 
 ## 📫 **Contact Us**
-- **Institution**: Based in China (欢迎与中国研究团队合作)  
-- **Documentation**: [GCA Analyzer Docs](https://gca-analyzer.readthedocs.io/)  
 - **Email**:et_shaw@126.com  
 - **GitHub**: [LIESS-CN GitHub Organization](https://github.com/LIESS-CN)
 
