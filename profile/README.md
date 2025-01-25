@@ -20,7 +20,7 @@ Our flagship Python package for group interaction analysis:
 - Measure metrics like **interaction density**, **content novelty**, and **cohesion**.
 - Support multi-language datasets using advanced NLP techniques.
 
-📦 **Repository**: [GCA Analyzer on GitHub](https://github.com/etShaw-zh/gca-analyzer)
+📦 **Repository**: [GCA Analyzer on GitHub](https://github.com/etShaw-zh/gca_analyzer)
 
 ---
 
